@@ -1,2 +1,2 @@
-#PortfolioPage
-Learn more about ME
+# PortfolioPage
+Learn more about me
