@@ -1,8 +1,10 @@
 # Portfolio-Page
 Learn more about me
 
-- Skills
+- My Skills
 
-- Qualification
+- My Qualifications
+
+- Education
 
 - Working Experience
